@@ -52,26 +52,27 @@
     
 }
 .app--g2x1 {
-    
+    display: grid;
 }
 .app--g1x2 {
-    
+    display: grid;
 }
 .app--off-3 {
-    
+    display: grid;
 }
 .app--off-4 {
+    display: grid;
     
 }
 .app--off-5 {
-    
+    display: grid;
 }
 .app--in-3 {
-    
+    display: grid;
 }
 .app--fun-2 {
-    
+    display: grid;
 }
 .app--fun-3 {
-    
+    display: grid;
 }
